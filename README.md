@@ -7,7 +7,7 @@ This was built as a tool to pull out Fantasy and other Stats from the below webs
 * https://www.youtube.com/ - This was to pull out video URLS
 
 
-
+![QS App Example](NFL_QS_APP.gif)
 
 ```python
 # Full Real Stats
